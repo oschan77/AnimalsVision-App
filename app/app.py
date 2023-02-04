@@ -53,6 +53,4 @@ app = gr.Interface(
   article=article,
 )
 
-app.launch(
-  share=True,
-)
+app.launch()
